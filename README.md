@@ -1,6 +1,6 @@
-## Dataset Description
+## Mpox (previously Monkeypox) synthetic clinical image dataset 
 
-This dataset consists of 1,000 images, generated using our proprietary SynthVision approach to synthetic data generation. The images in this dataset comprehensively cover lesions on various body parts, specifically:
+This Mpox (previously Monkeypox) dataset contains 1,000 synthetic clinical images generated using our proprietary SynthVision data generation pipeline. It is intended for use in Mpox digital detection and related research. The images comprehensively cover lesions in various stages of the disease on different body parts, specifically:
 - Face
 - Back
 - Leg
@@ -16,4 +16,4 @@ To ensure diversity and comprehensiveness, the dataset includes representations 
 
 ![Alt text for image](https://github.com/janithaDassanayake/dummyimages/blob/main/gitimage2.jpg?raw=true)
 
-This collection aims to facilitate advanced research and development in medical imaging by providing a varied and realistic set of images for analysis.
+This data collection aims to facilitate advanced research and development in medical imaging by providing a diverse and realistic set of Mpox images for model training, validation, and other tasks. Please mention [HeHealth](https://hehealth.ai/) and [Aagee AI](https://www.aagee.ai/) in your research. Thank you.
